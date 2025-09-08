@@ -1,5 +1,5 @@
 #as I am using ubuntu I have install sudo apt-get install espeak for using it 
-#If you are using windows it gives you by default say command you can use that
+#If you are using mac it gives you by default say command you can use that
 import os
 
 while True:
